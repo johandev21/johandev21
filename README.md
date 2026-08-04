@@ -29,7 +29,7 @@ Aplicación full-stack para crear, buscar, paginar, editar y eliminar notas. Inc
 
 ### [ForoVox](https://github.com/johandev21/sistema-de-foros)
 
-Sistema de foros con registro e inicio de sesión, roles de usuario, administración de comunidades y temáticas, publicaciones, respuestas, moderación de contenido, historial de acciones y búsqueda con paginación. También cuenta con una [demo desplegada](https://forovox.pythonanywhere.com/).
+Sistema de foros con registro e inicio de sesión, roles de usuario, administración de comunidades y temáticas, publicaciones, respuestas, moderación de contenido, historial de acciones y búsqueda con paginación.
 
 `Python` `Django` `MySQL` `Tailwind CSS` `JavaScript`
 
