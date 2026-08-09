@@ -15,17 +15,17 @@ Construyo aplicaciones web escalables y confiables de extremo a extremo. Me gust
 
 ## Proyectos destacados
 
-### [Gestión colaborativa de tareas](https://github.com/johandev21/collaborative-task-management)
+### [Memsystems](https://github.com/johandev21/memsystems-ai)
 
-Plataforma en desarrollo para equipos que combina tableros Kanban, tareas, seguimiento de tiempo, presencia en tiempo real, integraciones con GitHub y Slack, y paneles de analítica. El proyecto explora un monolito modular con arquitectura hexagonal.
+Aplicación para organizar notebooks, consultar fuentes y generar materiales de estudio con modelos de inteligencia artificial.
 
-`NestJS` `Drizzle` `PostgreSQL` `React` `Vite` `TanStack` `Zod`
+`React` `Vite` `TanStack Router` `NestJS` `PostgreSQL` `Drizzle` `Better Auth`
 
-### [Notes Fullstack App](https://github.com/johandev21/nestjs-nextjs-tutorial-app)
+### [Live Polling](https://github.com/johandev21/live-polling)
 
-Aplicación full-stack para crear, buscar, paginar, editar y eliminar notas. Incluye una API REST con validación, persistencia en PostgreSQL y una interfaz responsive con búsqueda, formularios y actualizaciones de estado.
+Plataforma web para crear y ejecutar sesiones de votación en vivo. Un host prepara sus encuestas y controla la sesión en tiempo real, mientras los participantes se unen sin crear una cuenta usando un código de sala o un enlace de invitación.
 
-`NestJS` `Next.js` `Drizzle` `PostgreSQL` `TanStack Query` `Zod`
+`TypeScript` `React` `Vite` `NestJS` `Socket.io` `PostgreSQL` `Redis` `Tailwind CSS`
 
 ### [ForoVox](https://github.com/johandev21/sistema-de-foros)
 
