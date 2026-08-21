@@ -21,17 +21,17 @@ Aplicación para organizar notebooks, consultar fuentes y generar materiales de 
 
 `React` `Vite` `TanStack Router` `NestJS` `PostgreSQL` `Drizzle` `Better Auth`
 
-### [Live Polling](https://github.com/johandev21/live-polling)
+### [Tasklane](https://github.com/johandev21/Tasklane)
 
-Plataforma web para crear y ejecutar sesiones de votación en vivo. Un host prepara sus encuestas y controla la sesión en tiempo real, mientras los participantes se unen sin crear una cuenta usando un código de sala o un enlace de invitación.
+Plataforma de gestión de proyectos y colaboración en tiempo real estructurada mediante tableros, listas y tarjetas. Cualquier cambio realizado por un miembro se refleja de forma inmediata en las pantallas de todos los usuarios conectados sin recargar la página.
 
-`TypeScript` `React` `Vite` `NestJS` `Socket.io` `PostgreSQL` `Redis` `Tailwind CSS`
+`TanStack Start` `React` `Convex` `Clerk` `Tailwind CSS` `shadcn/ui` `Zod` `Vitest`
 
-### [ForoVox](https://github.com/johandev21/sistema-de-foros)
+### [ThreadNest](https://github.com/johandev21/ThreadNest)
 
-Sistema de foros con registro e inicio de sesión, roles de usuario, administración de comunidades y temáticas, publicaciones, respuestas, moderación de contenido, historial de acciones y búsqueda con paginación.
+Clon ligero de Reddit. Las comunidades se llaman nests, las publicaciones viven dentro de los nests y los hilos de comentarios se anidan dentro de cada publicación.
 
-`Python` `Django` `MySQL` `Tailwind CSS` `JavaScript`
+`Bun` `Elysia.js` `Better Auth` `Drizzle` `SQLite` `Next.js` `Tailwind CSS` `TanStack Query`
 
 ### [Portafolio personal](https://github.com/johandev21/portfolio-website)
 
